@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\coloringgraph_hoosh\coloringgraph_hoosh\bin\Debug\netcoreapp3.1\coloringgraph_hoosh.exe
+C:\Users\acer\source\repos\coloringgraph_hoosh\coloringgraph_hoosh\bin\Debug\netcoreapp3.1\coloringgraph_hoosh.deps.json
+C:\Users\acer\source\repos\coloringgraph_hoosh\coloringgraph_hoosh\bin\Debug\netcoreapp3.1\coloringgraph_hoosh.runtimeconfig.json
+C:\Users\acer\source\repos\coloringgraph_hoosh\coloringgraph_hoosh\bin\Debug\netcoreapp3.1\coloringgraph_hoosh.runtimeconfig.dev.json
+C:\Users\acer\source\repos\coloringgraph_hoosh\coloringgraph_hoosh\bin\Debug\netcoreapp3.1\coloringgraph_hoosh.dll
+C:\Users\acer\source\repos\coloringgraph_hoosh\coloringgraph_hoosh\bin\Debug\netcoreapp3.1\coloringgraph_hoosh.pdb
+C:\Users\acer\source\repos\coloringgraph_hoosh\coloringgraph_hoosh\obj\Debug\netcoreapp3.1\coloringgraph_hoosh.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\coloringgraph_hoosh\coloringgraph_hoosh\obj\Debug\netcoreapp3.1\coloringgraph_hoosh.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\coloringgraph_hoosh\coloringgraph_hoosh\obj\Debug\netcoreapp3.1\coloringgraph_hoosh.AssemblyInfo.cs
+C:\Users\acer\source\repos\coloringgraph_hoosh\coloringgraph_hoosh\obj\Debug\netcoreapp3.1\coloringgraph_hoosh.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\coloringgraph_hoosh\coloringgraph_hoosh\obj\Debug\netcoreapp3.1\coloringgraph_hoosh.dll
+C:\Users\acer\source\repos\coloringgraph_hoosh\coloringgraph_hoosh\obj\Debug\netcoreapp3.1\coloringgraph_hoosh.pdb
+C:\Users\acer\source\repos\coloringgraph_hoosh\coloringgraph_hoosh\obj\Debug\netcoreapp3.1\coloringgraph_hoosh.genruntimeconfig.cache
